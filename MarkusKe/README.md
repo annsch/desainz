@@ -7,9 +7,11 @@ Redesign Desainz Blog WS 2012
 MEMBERLIST
 - beyondtheline (mail@beyondtheline.de)
 - annsch (account@annaschoderer.de)
+<<<<<<< HEAD
 - erikfx (e.freydank@gmx.de)
-- mark3rr (mark3rr@me.com)
-- davidspeyer (davidspeyer@online.de)
-- jotpunkt(janramroth@gmx.de)
-- carlomue (aloha@carlomueller.de)
-- MarkusKe (MarkusKemen@gmx.de)
+=======
+
+erik ist groß 
+>>>>>>> hi
+
+SAG MAL DAVID
